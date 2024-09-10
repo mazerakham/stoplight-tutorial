@@ -1,0 +1,39 @@
+# Node.js dependencies
+node_modules/
+
+# Optional npm cache directory
+.npm/
+
+# TypeScript compiled output
+dist/
+out/
+build/
+
+# Stoplight generated files
+.stoplight/
+
+# Log files
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# TypeScript declaration files
+*.d.ts
+
+# Environment variables
+.env
+.env.*.local
+
+# Local IDE files
+.vscode/
+.idea/
+
+# macOS system files
+.DS_Store
+
+# Linux Trash
+.Trash-*
+
+# Coverage reports
+coverage/
